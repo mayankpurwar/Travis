@@ -3,3 +3,4 @@ language: swift
 
 script:
 - fastlane scan
+- fastlane --device "iPhone 11 Pro"

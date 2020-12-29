@@ -75,7 +75,7 @@ class ViewController: UIViewController {
     }
   }
   
-  @IBAction func choiceButtonPressed1(_ sender: UIButton) {
+  @IBAction func choiceButtonPressed(_ sender: UIButton) {
     if sender == falseButton {
       play(false)
     } else if sender == trueButton {
