@@ -3,4 +3,3 @@ language: swift
 
 script:
 - fastlane scan
---device 
