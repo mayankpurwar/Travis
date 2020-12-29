@@ -17,6 +17,7 @@
 		3052E8882010950800F6F30B /* GameDoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3052E8872010950800F6F30B /* GameDoneViewController.swift */; };
 		30833EE42014681A000488C0 /* Shuffle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30833EE32014681A000488C0 /* Shuffle.swift */; };
 		900255F0259B37FC003827BD /* ConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900255EF259B37FC003827BD /* ConverterTests.swift */; };
+		900255FA259B3C13003827BD /* UITest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900255F9259B3C13003827BD /* UITest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3052E8872010950800F6F30B /* GameDoneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameDoneViewController.swift; sourceTree = "<group>"; };
 		30833EE32014681A000488C0 /* Shuffle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shuffle.swift; sourceTree = "<group>"; };
 		900255EF259B37FC003827BD /* ConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterTests.swift; sourceTree = "<group>"; };
+		900255F9259B3C13003827BD /* UITest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			isa = PBXGroup;
 			children = (
 				900255EF259B37FC003827BD /* ConverterTests.swift */,
+				900255F9259B3C13003827BD /* UITest.swift */,
 				3052E86C201040F500F6F30B /* Info.plist */,
 			);
 			path = NumeroTests;
@@ -226,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				900255F0259B37FC003827BD /* ConverterTests.swift in Sources */,
+				900255FA259B3C13003827BD /* UITest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
